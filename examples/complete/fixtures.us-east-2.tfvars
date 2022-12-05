@@ -1,8 +1,8 @@
-region = "us-east-2"
+region = "ap-southeast-1"
 
 namespace = "eg"
 
-environment = "ue2"
+environment = "ap1"
 
 stage = "test"
 
